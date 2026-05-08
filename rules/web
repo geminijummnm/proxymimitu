@@ -1,0 +1,30 @@
+[SwitchyOmega Conditions]
+@with result
+
+*.yfsp.tv +SelectNum
+*.qq.com +SelectNum
+*.sms-man.com +SelectNum
+*.lantern.io +SelectNum
+*.heygen.com +SelectNum
+*.grokipedia.com +SelectNum
+*.4chan.org +SelectNum
+*.sourceforge.net +SelectNum
+*.ip.sb +SelectNum
+*.v2ex.com +SelectNum
+*.hoyolab.com +SelectNum
+*.airdroid.com +SelectNum
+*.airdroid.cn +SelectNum
+*.microsoft.com +SelectNum
+*.mail.com +SelectNum
+*.live.com +SelectNum
+*.dola.com +SelectNum
+*.uploaded.net +SelectNum
+*.comnergy.com +SelectNum
+*.stablediffusionweb.com +SelectNum
+*.savefrom.net +SelectNum
+*.wftpserver.com +SelectNum
+*.ednovas.world +SelectNum
+*.capcut.com +SelectNum
+*.capcut.cn +SelectNum
+
+* +direct
