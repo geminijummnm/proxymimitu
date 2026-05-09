@@ -26,5 +26,8 @@
 *.ednovas.world +SelectNum
 *.capcut.com +SelectNum
 *.capcut.cn +SelectNum
+*.zi0.cc +SelectNum
+*.xiwangly.top +SelectNum
+*.aichuguang.com +SelectNum
 
 * +direct
