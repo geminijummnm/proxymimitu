@@ -30,5 +30,7 @@
 *.xiwangly.top +SelectNum
 *.aichuguang.com +SelectNum
 *.ikuuu.nl +SelectNum
+*.billdesk.com +SelectNum
+*.mgxray.xyz +SelectNum
 
 * +direct
