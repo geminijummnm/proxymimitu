@@ -2,7 +2,6 @@
 @with result
 
 *.yfsp.tv
-*.qq.com
 *.sms-man.com
 *.lantern.io
 *.heygen.com
@@ -33,5 +32,11 @@
 *.billdesk.com
 *.mgxray.xyz
 *.nowness.com
+*.cloudflare.com
+*.wallhaven.cc
+*.ednovas.org
+*.hakka.gov.tw
+*.ip.sb
+*.ghostery.com
 
 * +direct
